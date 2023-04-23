@@ -1,1 +1,1 @@
-# www
+# WWW Project with Python
